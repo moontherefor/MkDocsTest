@@ -1,0 +1,8 @@
+site_name: "我的 Obsidian 筆記"
+theme:
+  name: "material"
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.extra
+  - toc:
+      permalink: true
